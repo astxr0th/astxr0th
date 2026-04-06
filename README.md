@@ -1,16 +1,20 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AE0F0F&width=435&lines=Hi!+I'm+Lucas+aka+Astxr0th)](https://git.io/typing-svg)
 
-<!--
-**astxr0th/astxr0th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
 
-Here are some ideas to get you started:
+**Just an 18 yo trying to be a developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me on discord :
+<img src="https://discord.c99.nl/widget/theme-4/1268009643485954162.png">
+
+
+### Goals:
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,javascript,cpp,c,bash,lua,rust,java,zig)](https://skillicons.dev)
+
+
+### Tools :
+[![My Skills](https://skillicons.dev/icons?i=vscodium,emacs,neovim,robloxstudio,bash,androidstudio,docker,gcp)](https://skillicons.dev)
+
+
+### OS :
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,nix,windows)](https://skillicons.dev)
