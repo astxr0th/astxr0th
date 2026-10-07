@@ -1,17 +1,20 @@
-<div align="center">
-
 <img src="assets/banner.svg" width="100%" alt="fastfetch: lucas@nuclearcore, Artix Linux, mango on wayland, quickshell, neovim. writes bash, qml and lua, learning c, rust and zig." />
 
-<br><br>
+I'm Lucas. Most of what I write is for my own machine: install scripts, desktop configs, and fixes
+for hardware that doesn't play nice with Linux.
 
-<a href="https://github.com/astxr0th/dotfiles"><img src="assets/dotfiles.svg" width="100%" alt="dotfiles: mango + quickshell desktop with a one-command installer" /></a>
+### projects
 
-<a href="https://github.com/astxr0th/Artix-installer"><img src="assets/artix-installer.svg" width="100%" alt="Artix-installer: interactive Artix Linux install script" /></a>
+**[dotfiles](https://github.com/astxr0th/dotfiles)**: my mango + quickshell desktop. Sidebar, launcher,
+screen recorder, lock screen, and colors that follow the wallpaper. One script installs it on any
+Arch-based distro.
 
-<a href="https://github.com/astxr0th/aula-web-driver"><img src="assets/aula-web-driver.svg" width="100%" alt="aula-web-driver: AULA keyboard web driver on any Linux distro" /></a>
+**[Artix-installer](https://github.com/astxr0th/Artix-installer)**: interactive Artix install from the
+live ISO. Pick dinit, openrc, runit or s6, and ext4, xfs or btrfs.
 
-<br><br>
+**[aula-web-driver](https://github.com/astxr0th/aula-web-driver)**: gets AULA's browser-based keyboard
+driver working on any Linux distro.
 
-<a href="https://astxr0th.dev"><img src="assets/footer.svg" width="100%" alt="astxr0th.dev" /></a>
+---
 
-</div>
+[astxr0th.dev](https://astxr0th.dev)
