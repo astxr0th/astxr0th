@@ -5,15 +5,11 @@ for hardware that doesn't play nice with Linux.
 
 ### projects
 
-**[dotfiles](https://github.com/astxr0th/dotfiles)**: my mango + quickshell desktop. Sidebar, launcher,
-screen recorder, lock screen, and colors that follow the wallpaper. One script installs it on any
-Arch-based distro.
-
-**[Artix-installer](https://github.com/astxr0th/Artix-installer)**: interactive Artix install from the
-live ISO. Pick dinit, openrc, runit or s6, and ext4, xfs or btrfs.
-
-**[aula-web-driver](https://github.com/astxr0th/aula-web-driver)**: gets AULA's browser-based keyboard
-driver working on any Linux distro.
+| | what it is | built with |
+|---|---|---|
+| **[dotfiles](https://github.com/astxr0th/dotfiles)** | My daily desktop: mango + a quickshell sidebar, launcher, screen recorder and lock screen. Colors follow the wallpaper. One script installs it on any Arch-based distro. | QML · bash · Lua |
+| **[Artix-installer](https://github.com/astxr0th/Artix-installer)** | Installs Artix from the live ISO in one go. You pick the init system (dinit, openrc, runit, s6) and filesystem (ext4, xfs, btrfs); it sets up doas, paru and ly. | bash |
+| **[aula-web-driver](https://github.com/astxr0th/aula-web-driver)** | AULA's keyboard software only runs in the browser and can't see the keyboard on Linux. This adds the udev rule and makes sure you have a browser that supports WebHID. | bash · udev |
 
 ---
 
