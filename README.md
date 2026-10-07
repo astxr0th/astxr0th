@@ -1,31 +1,17 @@
 <div align="center">
 
-# Lucas
+<img src="assets/banner.svg" width="100%" alt="fastfetch: lucas@nuclearcore, Artix Linux, mango on wayland, quickshell, neovim. writes bash, qml and lua, learning c, rust and zig." />
 
-Linux, shell scripts and desktop tinkering
+<br><br>
 
-[astxr0th.dev](https://astxr0th.dev)
+<a href="https://github.com/astxr0th/dotfiles"><img src="assets/dotfiles.svg" width="100%" alt="dotfiles: mango + quickshell desktop with a one-command installer" /></a>
+
+<a href="https://github.com/astxr0th/Artix-installer"><img src="assets/artix-installer.svg" width="100%" alt="Artix-installer: interactive Artix Linux install script" /></a>
+
+<a href="https://github.com/astxr0th/aula-web-driver"><img src="assets/aula-web-driver.svg" width="100%" alt="aula-web-driver: AULA keyboard web driver on any Linux distro" /></a>
+
+<br><br>
+
+<a href="https://astxr0th.dev"><img src="assets/footer.svg" width="100%" alt="astxr0th.dev" /></a>
 
 </div>
-
-<br>
-
-I'm 19 and most of what I write is for my own machine: install scripts, desktop configs, small
-fixes for hardware that doesn't play nice with Linux. I run Artix with the
-[mango](https://github.com/mangowm/mango) Wayland compositor and a customized quickshell desktop.
-
-## Projects
-
-| | |
-|---|---|
-| **[dotfiles](https://github.com/astxr0th/dotfiles)** | My mango + quickshell desktop. Sidebar, launcher, screen recorder, lock screen, and colors that follow the wallpaper. One script installs it on any Arch-based distro. |
-| **[Artix-installer](https://github.com/astxr0th/Artix-installer)** | Interactive Artix install from the live ISO. Pick dinit, openrc, runit or s6, and ext4, xfs or btrfs. |
-| **[aula-web-driver](https://github.com/astxr0th/aula-web-driver)** | Gets AULA's browser-based keyboard driver working on Linux. Sets up the udev rule and finds or installs a browser with WebHID. |
-
-## Tools
-
-<img src="https://skillicons.dev/icons?i=bash,lua,qt,neovim,linux,arch,git&theme=dark&perline=7" alt="bash, lua, qt, neovim, linux, arch, git" />
-
-Currently learning:
-
-<img src="https://skillicons.dev/icons?i=c,rust,zig&theme=dark" alt="c, rust, zig" />
