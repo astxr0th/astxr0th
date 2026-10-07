@@ -1,6 +1,6 @@
 ### hey, I'm Lucas
 
-I'm 18 and I mostly write shell scripts and desktop configs for Linux. I run Artix with the mango
+I'm 19 and I mostly write shell scripts and desktop configs for Linux. I run Artix with the mango
 Wayland compositor, and most of what's here started as something I needed on my own machine.
 
 **Projects**
